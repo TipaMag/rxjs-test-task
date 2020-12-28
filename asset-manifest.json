@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rxjs-test-task/static/css/main.72f3a74c.chunk.css",
+    "main.js": "/rxjs-test-task/static/js/main.277a736e.chunk.js",
+    "main.js.map": "/rxjs-test-task/static/js/main.277a736e.chunk.js.map",
+    "runtime-main.js": "/rxjs-test-task/static/js/runtime-main.2106ba9f.js",
+    "runtime-main.js.map": "/rxjs-test-task/static/js/runtime-main.2106ba9f.js.map",
+    "static/js/2.e9e95936.chunk.js": "/rxjs-test-task/static/js/2.e9e95936.chunk.js",
+    "static/js/2.e9e95936.chunk.js.map": "/rxjs-test-task/static/js/2.e9e95936.chunk.js.map",
+    "static/js/3.b7c5d594.chunk.js": "/rxjs-test-task/static/js/3.b7c5d594.chunk.js",
+    "static/js/3.b7c5d594.chunk.js.map": "/rxjs-test-task/static/js/3.b7c5d594.chunk.js.map",
+    "index.html": "/rxjs-test-task/index.html",
+    "static/css/main.72f3a74c.chunk.css.map": "/rxjs-test-task/static/css/main.72f3a74c.chunk.css.map",
+    "static/js/2.e9e95936.chunk.js.LICENSE.txt": "/rxjs-test-task/static/js/2.e9e95936.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2106ba9f.js",
+    "static/js/2.e9e95936.chunk.js",
+    "static/css/main.72f3a74c.chunk.css",
+    "static/js/main.277a736e.chunk.js"
+  ]
+}
